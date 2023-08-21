@@ -1,3 +1,6 @@
 i love devops
 i love linux
 we love git
+I love Devops
+You love Linux
+We love Git
